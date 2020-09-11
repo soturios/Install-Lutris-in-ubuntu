@@ -2,7 +2,7 @@
 
 # Instalação automática do lutris.
 echo "-------------------------------------------------------------------------------------------------------------------------------------------------------"
-echo "Bem-Vindo! Você está prestes a instalar o lutris no seu Ubuntu ou derivado. Para continuar a instação aperte <ENTER> ou para cancelar, aperte <Ctrl-c>."
+echo "Bem-Vindo! Você está prestes a instalar o lutris no seu Ubuntu ou derivado. Para continuar a instalação aperte <ENTER> ou para cancelar, aperte <Ctrl-c>."
 echo "-------------------------------------------------------------------------------------------------------------------------------------------------------"
 read
 clear
